@@ -5,9 +5,7 @@ httpd-root/
 *.log
 *.pid
 
-target/
 build/
 *.class
-*.jar
 
 .DS_Store
